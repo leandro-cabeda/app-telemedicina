@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "1068434150420",
+    "firebase_url": "https://apps-fb34c.firebaseio.com",
+    "project_id": "apps-fb34c",
+    "storage_bucket": "apps-fb34c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068434150420:android:2890fabb4c6ac6d2664301",
+        "android_client_info": {
+          "package_name": "com.acaopositiva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068434150420-2onsu47d0795kr02o8a4btas0cokul1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6bjdIk5ASAIbm8DVneqGvS2-VmTuIsr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068434150420-2onsu47d0795kr02o8a4btas0cokul1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068434150420-a4c8qgcq9876re2tkufipd8otn9dsj1n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gesec.geCloudSlaApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068434150420:android:5b22fa5e8ab62010664301",
+        "android_client_info": {
+          "package_name": "com.ge_cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068434150420-2onsu47d0795kr02o8a4btas0cokul1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6bjdIk5ASAIbm8DVneqGvS2-VmTuIsr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068434150420-2onsu47d0795kr02o8a4btas0cokul1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068434150420-a4c8qgcq9876re2tkufipd8otn9dsj1n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gesec.geCloudSlaApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068434150420:android:b8095c6e8156199f664301",
+        "android_client_info": {
+          "package_name": "com.gecloudslaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068434150420-2onsu47d0795kr02o8a4btas0cokul1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6bjdIk5ASAIbm8DVneqGvS2-VmTuIsr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068434150420-2onsu47d0795kr02o8a4btas0cokul1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068434150420-a4c8qgcq9876re2tkufipd8otn9dsj1n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gesec.geCloudSlaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
